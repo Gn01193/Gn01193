@@ -117,39 +117,5 @@ I enjoy building projects, solving programming problems, exploring how systems w
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=C%2B%2B+%2F+OOP;Data+Structures+%26+Algorithms;Git+%26+GitHub;Linux+%26+Bash;Computer+Networking;Cyber+Security" />
 
-</div>
-
----
-
-<!-- ======================= CYBER SECURITY ======================= -->
-
-## 🔐 Cyber Security
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,docker" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=Network+Security;Vulnerability+Analysis;Linux+Security;Cyber+Range;CTF+Challenges;Security+Fundamentals" />
-
-</div>
-
-### 🔎 Areas I'm Exploring
-
-```text
-┌─────────────────────────────────────────────┐
-│              CYBER SECURITY                 │
-├─────────────────────────────────────────────┤
-│                                             │
-│  🌐 Network Security                        │
-│  🔎 Vulnerability Analysis                  │
-│  🐧 Linux Security                          │
-│  🧪 Cyber Range                             │
-│  🚩 CTF Challenges                          │
-│  🛡️ Security Fundamentals                  │
-│  🔐 System Security                         │
-│                                             │
-└─────────────────────────────────────────────┘
+██████████░░░░░░░░░░  50%
