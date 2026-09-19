@@ -90,7 +90,7 @@ I enjoy building projects, solving programming problems, exploring how systems w
 ## 🔧 Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,postgres,react,html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,postgres,react,html,css,docker,bash,kali&perline=6" />
 </p>
 
 ## 🐧 Operating Systems
