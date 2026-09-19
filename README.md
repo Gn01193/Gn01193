@@ -53,30 +53,6 @@ I enjoy building projects, solving programming problems, exploring how systems w
 
 ---
 
-<!-- ======================= FOCUS ======================= -->
-
-## 🎯 My Focus
-
-<div align="center">
-
-| 💻 Programming | 🔐 Cyber Security |
-|:---:|:---:|
-| C++ / C / Python | Security Fundamentals |
-| OOP | Vulnerability Analysis |
-| Data Structures | Cyber Range |
-| Algorithms | CTF |
-
-| 🌐 Networking | 🐧 Linux |
-|:---:|:---:|
-| TCP/IP | Linux |
-| HTTP / HTTPS | Bash |
-| DNS | Command Line |
-| Network Security | System Administration |
-
-</div>
-
----
-
 <!-- ======================= SKILLS ======================= -->
 
 # 🛠️ Skills
