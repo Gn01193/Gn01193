@@ -93,5 +93,3 @@ I enjoy building projects, solving programming problems, exploring how systems w
 
 <br><br>
 
-
-██████████░░░░░░░░░░  50%
