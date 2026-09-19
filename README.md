@@ -84,13 +84,13 @@ I enjoy building projects, solving programming problems, exploring how systems w
 ## 💻 Programming
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,java&perline=6" />
 </p>
 
 ## 🔧 Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,postgres,react,html,css&perline=6" />
 </p>
 
 ## 🐧 Operating Systems
