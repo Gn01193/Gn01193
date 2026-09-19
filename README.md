@@ -1,39 +1,63 @@
+<!-- ======================= HEADER ======================= -->
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gn01193&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 # 👋 Hello, I'm **Gn01193**
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Cyber+Security+Learner;Networking+Enthusiast;Linux+Explorer;Always+Learning+Something+New" />
+
+<br>
+
 ### 💻 C++ Developer | 🔐 Cyber Security Learner | 🌐 Networking Enthusiast
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,linux,bash,docker" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,linux,bash,docker&perline=9" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Gn01193&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Gn01193?style=for-the-badge&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=Gn01193&style=for-the-badge&color=0e75b6" />
+<img src="https://img.shields.io/github/followers/Gn01193?style=for-the-badge&logo=github&label=Followers" />
 
 </div>
 
 ---
 
+<!-- ======================= ABOUT ME ======================= -->
+
 ## 👨‍💻 About Me
 
 <div align="center">
 
-**🎓 Information Technology Student**
+🎓 **Information Technology Student**
 
-**💻 C++ / OOP**
+💻 **C++ / OOP**
 
-**🔐 Cyber Security**
+🔐 **Cyber Security**
 
-**🌐 Computer Networking**
+🌐 **Computer Networking**
 
-**🐧 Linux**
+🐧 **Linux**
+
+🚀 **Always Learning & Building**
 
 </div>
 
+<br>
+
 I'm an **Information Technology student** interested in programming, cybersecurity, networking, and Linux.
 
-### 🎯 My Focus
+I enjoy building projects, solving programming problems, exploring how systems work, and learning through hands-on practice.
+
+---
+
+<!-- ======================= FOCUS ======================= -->
+
+## 🎯 My Focus
+
+<div align="center">
 
 | 💻 Programming | 🔐 Cyber Security |
 |:---:|:---:|
@@ -45,27 +69,69 @@ I'm an **Information Technology student** interested in programming, cybersecuri
 | 🌐 Networking | 🐧 Linux |
 |:---:|:---:|
 | TCP/IP | Linux |
-| HTTP/HTTPS | Bash |
+| HTTP / HTTPS | Bash |
 | DNS | Command Line |
+| Network Security | System Administration |
+
+</div>
 
 ---
 
-## 🛠️ Skills
+<!-- ======================= SKILLS ======================= -->
 
-### 💻 Programming
+# 🛠️ Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python" />
-</p>
-
-### 🔧 Development
+## 💻 Programming
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python&perline=6" />
 </p>
 
-### 🔐 Security & Environment
+## 🔧 Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&perline=6" />
 </p>
+
+## 🐧 Operating Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows&perline=6" />
+</p>
+
+## 🔐 Security & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,bash,docker&perline=6" />
+</p>
+
+---
+
+<!-- ======================= CURRENTLY LEARNING ======================= -->
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,linux,bash,python,git,docker" />
+
+<br><br>
+
+```text
+C++ / OOP
+███████████████████░░  90%
+
+Data Structures
+████████████████░░░░░  80%
+
+Git & GitHub
+███████████████░░░░░  75%
+
+Linux
+████████████░░░░░░░░  60%
+
+Networking
+███████████░░░░░░░░░  55%
+
+Cyber Security
+██████████░░░░░░░░░░  50%
