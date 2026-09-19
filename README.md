@@ -4,14 +4,12 @@
 
 ### 💻 C++ Developer | 🔐 Cyber Security Learner | 🌐 Networking Enthusiast
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,linux,bash,docker" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,linux,bash,docker" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gn01193&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Gn01193?style=for-the-badge&logo=github" />
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Gn01193&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Gn01193?style=for-the-badge&logo=github" />
 
 </div>
 
@@ -19,18 +17,55 @@
 
 ## 👨‍💻 About Me
 
-```cpp
-class Developer {
-public:
-    string name = "Gn01193";
-    string field = "Information Technology";
+<div align="center">
 
-    vector<string> focus = {
-        "C++ / OOP",
-        "Cyber Security",
-        "Computer Networking",
-        "Linux"
-    };
+**🎓 Information Technology Student**
 
-    string mindset = "Learn • Build • Break • Fix • Improve";
-};
+**💻 C++ / OOP**
+
+**🔐 Cyber Security**
+
+**🌐 Computer Networking**
+
+**🐧 Linux**
+
+</div>
+
+I'm an **Information Technology student** interested in programming, cybersecurity, networking, and Linux.
+
+### 🎯 My Focus
+
+| 💻 Programming | 🔐 Cyber Security |
+|:---:|:---:|
+| C++ / C / Python | Security Fundamentals |
+| OOP | Vulnerability Analysis |
+| Data Structures | Cyber Range |
+| Algorithms | CTF |
+
+| 🌐 Networking | 🐧 Linux |
+|:---:|:---:|
+| TCP/IP | Linux |
+| HTTP/HTTPS | Bash |
+| DNS | Command Line |
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python" />
+</p>
+
+### 🔧 Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
+
+### 🔐 Security & Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker" />
+</p>
