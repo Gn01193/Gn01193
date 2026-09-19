@@ -117,21 +117,3 @@ I enjoy building projects, solving programming problems, exploring how systems w
 
 <br><br>
 
-```text
-C++ / OOP
-███████████████████░░  90%
-
-Data Structures
-████████████████░░░░░  80%
-
-Git & GitHub
-███████████████░░░░░  75%
-
-Linux
-████████████░░░░░░░░  60%
-
-Networking
-███████████░░░░░░░░░  55%
-
-Cyber Security
-██████████░░░░░░░░░░  50%
