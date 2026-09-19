@@ -1,15 +1,16 @@
 <div align="center">
 
-# 👋 Hello, I'm Gn01193
+# 👋 Hello, I'm **Gn01193**
 
-### 💻 C++ Developer | 🔐 Cyber Security Learner | 🚀 Tech Enthusiast
+### 💻 C++ Developer | 🔐 Cyber Security Learner | 🌐 Networking Enthusiast
 
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Cyber%20Security-2C2C2C?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,linux,bash,docker" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Gn01193&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/Gn01193?style=for-the-badge&logo=github" />
 </p>
 
 </div>
@@ -33,5 +34,13 @@ public:
         "Git & GitHub"
     };
 
-    string goal = "Keep learning, keep building.";
+    vector<string> currently_learning = {
+        "Advanced C++",
+        "Cyber Security",
+        "Networking",
+        "Linux",
+        "Cyber Range"
+    };
+
+    string goal = "Keep learning. Keep building. Keep improving.";
 };
